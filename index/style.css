@@ -1,0 +1,18 @@
+span {
+    font-size: 33px;
+    color: red;
+}
+
+div {
+  width:100%;
+  border-bottom: 0.5px solid black;
+}
+
+.par1 {
+  font-style: italic;
+  font-size: 18px;
+}
+
+footer {
+ border-top: 0.5px solid black; 
+}
